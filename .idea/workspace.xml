@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../GradleHelloWorldTutorial" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../first-java-project" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-boot-web-application" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../web-application" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../java-hello-world-with-gradle-master/java-hello-world-with-gradle-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../spring4-mvc-gradle-xml/spring4-mvc-gradle-xml" value="PREVIEW" />
+        <entry key="C:/source/dimensiondata/flyway" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+</project>
